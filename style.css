@@ -21,6 +21,7 @@
     color: #FFFF;
     border: none;
     border-radius: 7px;
+    margin-top: 10px;
 }
 .price{
     color:#FF1368;
@@ -63,4 +64,11 @@
 .card{
     border: none;
     box-shadow: 10px 10px 15px lightgray;
+}
+#newslatter{
+    height: 300px;
+    text-align: center;
+}
+#newslatter h6{
+    color:gray;
 }
