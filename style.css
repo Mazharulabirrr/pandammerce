@@ -17,7 +17,7 @@
 }
 .buy-now-button{
     background-image: linear-gradient(to bottom, #FF5896 0%, #FF1368 100%);
-    padding: 14px 35px;
+    padding: 10px 25px;
     color: #FFFF;
     border: none;
     border-radius: 7px;
@@ -59,4 +59,8 @@
 }
 .categories h1{
     color:#ffff
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 15px lightgray;
 }
