@@ -1,0 +1,62 @@
+.mar{
+    margin-top: 20px;
+}
+.box-shadow-cus{
+    box-shadow: 10 10 25 gray;
+}
+.flt{
+    display: flex;
+    float: right;
+
+}
+.pink-bg{
+    background-color: #Fceae8;
+}
+.carousal-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF5896 0%, #FF1368 100%);
+    padding: 14px 35px;
+    color: #FFFF;
+    border: none;
+    border-radius: 7px;
+}
+.price{
+    color:#FF1368;
+    padding-bottom: 10px;
+}
+.container{
+    margin-bottom: 50px;
+}
+.cat1{
+    background-image: linear-gradient(to bottom, tomato 0%, rgb(251, 53, 18) 100%);
+
+}
+.cat1:hover{
+    background-image: linear-gradient(to bottom, rgb(251, 53, 18) 0%, tomato 100%);
+
+}
+.cat2{
+    background-image: linear-gradient(to bottom, aqua 0%, rgb(4, 177, 177) 100%);
+}
+.cat2:hover{
+    background-image: linear-gradient(to bottom, rgb(4, 177, 177) 0%,aqua 100%,);
+}
+.cat3{
+    background-image: linear-gradient(to bottom, slateblue 0%,rgb(71, 52, 196) 100%);
+}
+.cat3:hover{
+    background-image: linear-gradient(to bottom, rgb(71, 52, 196) 0%,slateblue 100%);
+}
+.cat1, .cat2, .cat3{
+    padding: 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    color:#ffff
+}
